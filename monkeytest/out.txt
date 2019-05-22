@@ -1,0 +1,13 @@
+ O volume na unidade D ‚ DATA
+ O N£mero de S‚rie do Volume ‚ 709E-EA67
+
+ Pasta de D:\PycharmProjects\monkeytest
+
+22/05/2019  18:11    <DIR>          .
+22/05/2019  18:11    <DIR>          ..
+22/05/2019  18:11    <DIR>          .idea
+22/05/2019  18:11                52 main.py
+22/05/2019  18:11                 0 out.txt
+22/05/2019  18:03    <DIR>          venv
+               2 arquivo(s)             52 bytes
+               4 pasta(s)   631.604.875.264 bytes dispon¡veis
