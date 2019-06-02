@@ -24,7 +24,7 @@ def parser(action_cmd):
     print action_cmd
     action_type = ''
     action_param = ''
-    if  action_cmd == "menu\n":
+    if action_cmd == "menu\n":
         # print 'menu'
         d.press.menu()
     elif action_cmd.__contains__("click("):
@@ -48,7 +48,7 @@ def parser(action_cmd):
         action_param = "_by_classname_instance"
 
     if action_param == '':
-        return [action_type + action_cmd]
+        return [action_type]
     elif action_param != '_by_classname_instance':
         first_quote_index = action_cmd.index("\'")  # get the action param value
         last_quote_index = action_cmd.rindex("\'")
@@ -56,18 +56,17 @@ def parser(action_cmd):
         action_param_value = action_cmd[first_quote_index:last_quote_index]
         # puts "[D]: #{action_type}, #{action_param}, #{action_param_value}"
         # print action_type + action_param + ' ' + action_param_value
-        return [action_type + action_cmd, action_param_value]
+        return [action_type + action_param, action_param_value]
 
     else:
-        className = None
-        instance = None
         # execute action by classname and instance
         # exemplo: clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"Jan"
+
         class_name_pattr = re.compile('className=\'(.*)\',')
         class_name = class_name_pattr.findall(action_cmd)[0]
         instance_pattr = re.compile('instance=\'(.*)\'')
         instance = instance_pattr.findall(action_cmd)[0]
-        return [action_type + action_cmd, className, instance]
+        return [action_type + action_param, class_name, instance]
 
 def executar_evento(action_cmd):
 
@@ -118,8 +117,17 @@ def executar_evento(action_cmd):
     elif comando[0] == 'volume':
         volume()
 
+def abrir_app(nome):
+    # adb - s
+#     # emulator - 5554
+#     # shell
+#     # am
+#     # start - S - n
+#     # com.commonsware.android.arXiv / com.commonsware.android.arXiv.arXiv
+    print 'nao implementado...'
+
 if __name__ == '__main__':
-    f = open('test_suite_to_execute.txt', 'r')
+    f = open('logs/mcmc_all_history_testsuites.txt', 'r')
     f1 = f.readlines()
     for l in f1:
         executar_evento(l)

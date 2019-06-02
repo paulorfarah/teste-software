@@ -1,0 +1,5 @@
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@""Who Has My Stuff?" Test User"
+edit(resource-id='de.freewarepoint.whohasmystuff:id/add_description'):android.widget.EditText@"Example entry"
+edit(resource-id='de.freewarepoint.whohasmystuff:id/add_description'):android.widget.EditText@"Press menu button to add entries"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Edit Lent Item"
+edit(resource-id='de.freewarepoint.whohasmystuff:id/personName'):android.widget.EditText@"12stt"
