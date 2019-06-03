@@ -10,14 +10,14 @@ from testador import executar_evento
 def main():
 
     media = []
-    for cont in range(5):
+    for cont in range(1, 6):
         # 1. ler log (stoat e monkey)
         # f = open('logs/teste.txt', 'r')
         # f1 = f.readlines()
 
 
         #2. executar casos de teste no programa original
-        caminho_original = 'apks/original/'
+        caminho_original = '../apks/original/'
         caminho_logs = '../logs/'
         logs = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff']
         apks = ['TippyTipper-debug', 'TranslateActivity-debug', 'arXiv-debug', 'ListLentObjects-debug']
@@ -32,7 +32,7 @@ def main():
             instalar_apk(apk)
             saida = abrir_app(apps[i] + activities[i])
             if saida == 0:
-                f = open(caminho_logs + logs[i] + '/', 'r')
+                f = open(caminho_logs + logs[i] + '/mcmc_all_history_testsuites_' + str(cont) + '.txt', 'r')
                 f1 = f.readlines()
                 for l in f1:
                     executar_evento(l)
@@ -44,7 +44,7 @@ def main():
             desinstalar_apk(apps[i])
 
         #3. executar casos de teste nos mutantes
-        caminho_mutantes = 'apks/mutantes/'
+        caminho_mutantes = '../apks/mutantes/'
         pastas_mutantes = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff'] ### ATENCAO: deve estar na mesma ordem do vetor apps
 
         for pasta in pastas_mutantes:
@@ -62,6 +62,9 @@ def main():
                 # print fig_mutante
 
                 if saida == 0:
+                    f = open(caminho_logs + logs[i] + '/mcmc_all_history_testsuites_' + str(cont) + '.txt', 'r')
+                    f1 = f.readlines()
+
                     for l in f1:
                         executar_evento(l)
 
