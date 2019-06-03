@@ -13,3 +13,4 @@ ENV/
 .idea/
 .idea/*
 *.pyc
+venv2/

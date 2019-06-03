@@ -17,10 +17,11 @@ def main():
 
 
     #2. executar casos de teste no programa original
-    caminho_original = 'D:/PycharmProjects/TesteAndroid/apks/original/'
+    caminho_original = 'apks/original/'
     apks = ['TippyTipper-debug', 'TranslateActivity-debug', 'arXiv-debug', 'ListLentObjects-debug']
     apps = ['net.mandaria.tippytipper', 'com.beust.android.translate', 'com.commonsware.android.arXiv', 'de.freewarepoint.whohasmystuff']
-    activities = ['/.activities.TippyTipper', '/TranslateActivity', '/arXiv', '/.activities.TippyTipper']
+    activities = ['/.activities.TippyTipper', '/.TranslateActivity', '/.arXiv', '/.ListLentObjects']
+    #activities = ['/.activities.TippyTipper', '/TranslateActivity', '/arXiv', '/.activities.TippyTipper']
     # apks = ['TippyTipper-debug']
     # apps = ['net.mandaria.tippytipper']
 
@@ -39,7 +40,7 @@ def main():
         desinstalar_apk(apps[i])
 
     #3. executar casos de teste nos mutantes
-    caminho_mutantes = 'D:/PycharmProjects/TesteAndroid/apks/mutantes/'
+    caminho_mutantes = 'apks/mutantes/'
     pastas_mutantes = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff'] ### ATENCAO: deve estar na mesma ordem do vetor apps
 
     for pasta in pastas_mutantes:

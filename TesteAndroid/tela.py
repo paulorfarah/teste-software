@@ -6,7 +6,7 @@ from image_checker import checkSimilarPictures
 
 STATUS_BAR_CROP_HEIGHT = 80
 SCREEN_CPATURE_DELAY = 0.2
-SCREENSHOTS_DIRECTORY = 'D:\\PycharmProjects\\TesteAndroid\\telas\\'
+SCREENSHOTS_DIRECTORY = 'telas/'
 
 
 def comparar_imagens(arquivo1, arquivo2):
