@@ -12,27 +12,17 @@ from tela import capturar_tela, comparar_imagens
 
 def main():
 
-    # 1. ler log (stoat e monkey)
-    #f = open('logs/teste.txt', 'r')
-    # f = open('logs/mcmc_all_history_testsuites.txt', 'r')
-
-    #f1 = f.readlines()
-    #abrir_emulator('testAVD_4')
-
-    #2. executar casos de teste no programa original
     caminho_original = '../apks/original/'
     apks = ['TippyTipper-debug', 'TranslateActivity-debug', 'arXiv-debug', 'ListLentObjects-debug']
     apps = ['net.mandaria.tippytipper', 'com.beust.android.translate', 'com.commonsware.android.arXiv', 'de.freewarepoint.whohasmystuff']
     activities = ['/.activities.TippyTipper', '/.TranslateActivity', '/.arXiv', '/.ListLentObjects']
-    #activities = ['/.activities.TippyTipper', '/TranslateActivity', '/arXiv', '/.activities.TippyTipper']
-    # apks = ['TippyTipper-debug']
-    # apps = ['net.mandaria.tippytipper']
 
     for i in range(len(apps)):
         apk = caminho_original + apks[i] + '.apk'
         instalar_apk(apk)
-        #saida = abrir_app(apps[i] + activities[i])
-        saida = subprocess.call(["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps, "1000", "-v", "250","--ignore-crashes", "--ignore-timeouts", "--ignore-security-exceptions > monkey.log"])
+
+        saida = subprocess.call(["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[i],"-s", "1000",
+                                 "-v", "10", "--ignore-crashes" , "--ignore-timeouts"])
         if saida == 0:
             capturar_tela(apps[i] + '-original.png')
         else:
@@ -45,37 +35,47 @@ def main():
     caminho_mutantes = '../apks/mutantes/'
     pastas_mutantes = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff'] ### ATENCAO: deve estar na mesma ordem do vetor apps
 
+    cont = 0
+
     for pasta in pastas_mutantes:
         resultado = []
         erros = 0
         apks = ler_apks(caminho_mutantes + pasta)
         # apks = ['TippyTipper-debug3.apk']
+
         for i in range(len(apks)):
             apk = caminho_mutantes + pasta + '/' + apks[i]
-            instalar_apk(apk)
+            out = instalar_apk(apk)
+
+
             # print apps[i] + '/.activities.TippyTipper'
-            saida = abrir_app(apps[i] + activities[i]) #SplitBill
+            #saida = abrir_app(apps[i] + activities[i]) #SplitBill
             match = re.search(r'\/[\w.-]+-debug\d+.apk', apk)
             fig_mutante = match.group()[1:-4] + '.png'
-            # print fig_mutante
+            #fig_mutante = apks[i] + '.png'
+            print 'Figura' + fig_mutante
 
-            if saida == 0:
+            print out
 
-                subprocess.call(["timeout", "1h", "adb", "shell", "monkey", "--throttle","200", "-p",apps, "1000", "-v","250","--ignore-crashes","--ignore-timeouts","--ignore-security-exceptions > monkey.log"])
-
-                capturar_tela(fig_mutante)
-                similar = comparar_imagens(apps[i] + '-original.png', fig_mutante)
-                resultado.append([apk, similar])
+            if out == 0:
+                saida = subprocess.call(
+                    ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[cont], "-s", "1000",
+                     "-v", "10", "--ignore-crashes", "--ignore-timeouts"])
+                if saida == 0:
+                    capturar_tela(fig_mutante)
+                    similar = comparar_imagens(apps[cont] + '-original.png', fig_mutante)
+                    resultado.append([apk, similar])
+                else:
+                    erros += 1
+                    print 'erro ao abrir app mutante: ' + fig_mutante
+                    desinstalar_apk(apps[cont])
+                    #exit(0)
             else:
-                erros += 1
-                print 'erro ao abrir app mutante: ' + fig_mutante
-                desinstalar_apk(apps[i])
-                exit(0)
+                print '------ teste -------'
 
-            desinstalar_apk(apps[i])
+            desinstalar_apk(apps[cont])
 
-
-
+        cont += 1
         #4. resultados
         dm = 0
         tm = len(resultado)
@@ -95,11 +95,12 @@ def main():
             print '[==> ATENÇÃO]: Total de mutantes válidos: 0'
         print 'erros: ' + str(erros)
 
-        with open('resultado.csv', mode='w') as arquivo:
-            employee_writer = csv.writer(arquivo, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-            employee_writer.writerow([resultado])
-            employee_writer.writerow([tm, m, erros])
+        with open('resultado.csv', mode='w') as arquivo:
+            arquivo = csv.writer(arquivo, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+            arquivo.writerow([resultado])
+            arquivo.writerow([tm, m, erros])
 
 
 

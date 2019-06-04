@@ -7,7 +7,7 @@ def ler_apks(basepath):
     arquivos = []
     for entry in os.listdir(basepath):
         if os.path.isfile(os.path.join(basepath, entry)):
-            # print(entry)
+            print(entry)
             arquivos.append(entry)
     return arquivos
 
@@ -15,7 +15,8 @@ def instalar_apk(apk):
     print 'instalar apk'
     #adb install -s example.apk
     print 'adb install -s ' + apk
-    subprocess.call(["adb", "install", apk])
+    output = subprocess.call(["adb", "install", apk])
+    return output
 
 def desinstalar_apk(apk):
     print 'desinstalar apk'
