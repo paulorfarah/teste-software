@@ -3,6 +3,7 @@ import csv
 import re
 import os
 import subprocess
+from  time import sleep
 
 
 from emulador import instalar_apk, abrir_app, desinstalar_apk, ler_apks, abrir_emulator
@@ -20,15 +21,19 @@ def main():
     for i in range(len(apps)):
         apk = caminho_original + apks[i] + '.apk'
         instalar_apk(apk)
+        saida = abrir_app(apps[i] + activities[i])
 
-        saida = subprocess.call(["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[i],"-s", "1000",
-                                 "-v", "10", "--ignore-crashes" , "--ignore-timeouts"])
         if saida == 0:
+            subprocess.call(
+                ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[i], "-s", "1000",
+                 "-v", "10", "--ignore-crashes", "--ignore-timeouts"])
+            sleep(1)
             capturar_tela(apps[i] + '-original.png')
+            sleep(0.2)
         else:
             print 'erro ao abrir app original: ' + apps[i]
             desinstalar_apk(apps[i])
-            exit(0)
+            #exit(0)
         desinstalar_apk(apps[i])
 
     #3. executar casos de teste nos mutantes
@@ -45,37 +50,30 @@ def main():
 
         for i in range(len(apks)):
             apk = caminho_mutantes + pasta + '/' + apks[i]
-            out = instalar_apk(apk)
+            instalar_apk(apk)
 
-
-            # print apps[i] + '/.activities.TippyTipper'
-            #saida = abrir_app(apps[i] + activities[i]) #SplitBill
+            saida = abrir_app(apps[cont] + activities[cont])
             match = re.search(r'\/[\w.-]+-debug\d+.apk', apk)
             fig_mutante = match.group()[1:-4] + '.png'
-            #fig_mutante = apks[i] + '.png'
-            print 'Figura' + fig_mutante
 
-            print out
-
-            if out == 0:
-                saida = subprocess.call(
+            if saida == 0:
+                subprocess.call(
                     ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[cont], "-s", "1000",
                      "-v", "10", "--ignore-crashes", "--ignore-timeouts"])
-                if saida == 0:
-                    capturar_tela(fig_mutante)
-                    similar = comparar_imagens(apps[cont] + '-original.png', fig_mutante)
-                    resultado.append([apk, similar])
-                else:
-                    erros += 1
-                    print 'erro ao abrir app mutante: ' + fig_mutante
-                    desinstalar_apk(apps[cont])
-                    #exit(0)
+                sleep(1)
+                capturar_tela(fig_mutante)
+                sleep(0.2)
+                similar = comparar_imagens(apps[cont] + '-original.png', fig_mutante)
+                resultado.append([apk, similar])
             else:
-                print '------ teste -------'
+                erros += 1
+                print 'erro ao abrir app mutante: ' + fig_mutante
+                desinstalar_apk(apps[cont])
+
 
             desinstalar_apk(apps[cont])
 
-        cont += 1
+
         #4. resultados
         dm = 0
         tm = len(resultado)
@@ -93,14 +91,17 @@ def main():
             print 'taxa de mutacao: ' + str(float(dm)/float(tm))
         else:
             print '[==> ATENÇÃO]: Total de mutantes válidos: 0'
+
         print 'erros: ' + str(erros)
 
+        nome = 'resultado' + apps[cont]+'.csv'
 
-        with open('resultado.csv', mode='w') as arquivo:
+        with open(nome, mode='w') as arquivo:
             arquivo = csv.writer(arquivo, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
             arquivo.writerow([resultado])
             arquivo.writerow([tm, m, erros])
+        cont += 1
 
 
 
