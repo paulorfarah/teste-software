@@ -1,0 +1,100 @@
+INFO:root:ANALISE INICIADA 08-06-2019 01:19:55
+INFO:root:Original: TranslateActivity-debug.apk
+INFO:root:ANALISE INICIADA 08-06-2019 01:22:05
+INFO:root:Original: TranslateActivity-debug.apk
+INFO:root:Mutante: TranslateActivity-debug19.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug7.apk;Situacao: MORTO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug38.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug14.apk;Situacao: MORTO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug8.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug11.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug27.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug3.apk;Situacao: MORTO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug16.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug30.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug24.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug2.apk;Situacao: MORTO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug25.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug9.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug34.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug15.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug23.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug29.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug5.apk;Situacao: MORTO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug36.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug22.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug17.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug6.apk;Situacao: MORTO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug13.apk;Situacao: MORTO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug32.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug20.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug4.apk;Situacao: MORTO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug37.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug21.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug31.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug39.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug26.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug1.apk;Situacao: MORTO;Operador: WrongMainActivity
+INFO:root:Mutante: TranslateActivity-debug12.apk;Situacao: MORTO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug33.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug10.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug28.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug35.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug18.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Operador: WrongMainActivity;VIVOS: 0;MORTOS: 1;Total: 1;Score: 100.0%
+INFO:root:Operador: InvalidActivityPATH;VIVOS: 0;MORTOS: 3;Total: 3;Score: 100.0%
+INFO:root:Operador: InvalidLabel;VIVOS: 0;MORTOS: 3;Total: 3;Score: 100.0%
+INFO:root:Operador: WrongStringResource;VIVOS: 0;MORTOS: 25;Total: 25;Score: 100.0%
+INFO:root:Operador: ActivityNotDefined;VIVOS: 0;MORTOS: 3;Total: 3;Score: 100.0%
+INFO:root:Operador: MissingPermissionManifest;VIVOS: 0;MORTOS: 4;Total: 4;Score: 100.0%
+INFO:root:TOTAL MUTANTES: 39
+INFO:root:SCORE: 100.0%
+INFO:root:ANALISE INICIADA 08-06-2019 10:25:30
+INFO:root:Original: TranslateActivity-debug.apk
+INFO:root:Mutante: TranslateActivity-debug19.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug7.apk;Situacao: VIVO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug38.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug14.apk;Situacao: VIVO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug8.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug11.apk;Situacao: MORTO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug27.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug3.apk;Situacao: MORTO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug16.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug30.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug24.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug2.apk;Situacao: MORTO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug25.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug9.apk;Situacao: VIVO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug34.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug15.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug23.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug29.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug5.apk;Situacao: MORTO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug36.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug22.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug17.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug6.apk;Situacao: MORTO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug13.apk;Situacao: MORTO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug32.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug20.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug4.apk;Situacao: VIVO;Operador: InvalidActivityPATH
+INFO:root:Mutante: TranslateActivity-debug37.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug21.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug31.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug39.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug26.apk;Situacao: MORTO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug1.apk;Situacao: MORTO;Operador: WrongMainActivity
+INFO:root:Mutante: TranslateActivity-debug12.apk;Situacao: MORTO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug33.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug10.apk;Situacao: VIVO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug28.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug35.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug18.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Operador: WrongMainActivity;VIVOS: 0;MORTOS: 1;Total: 1;Score: 100.0%
+INFO:root:Operador: InvalidActivityPATH;VIVOS: 1;MORTOS: 2;Total: 3;Score: 66.6666666667%
+INFO:root:Operador: InvalidLabel;VIVOS: 1;MORTOS: 2;Total: 3;Score: 66.6666666667%
+INFO:root:Operador: WrongStringResource;VIVOS: 15;MORTOS: 10;Total: 25;Score: 40.0%
+INFO:root:Operador: ActivityNotDefined;VIVOS: 1;MORTOS: 2;Total: 3;Score: 66.6666666667%
+INFO:root:Operador: MissingPermissionManifest;VIVOS: 2;MORTOS: 2;Total: 4;Score: 50.0%
+INFO:root:TOTAL MUTANTES: 39
+INFO:root:SCORE: 48.7179487179%

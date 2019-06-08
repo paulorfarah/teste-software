@@ -1,0 +1,10 @@
+'1INFO:root:ANALISE INICIADA 07-06-2019 13:54:02
+INFO:root:Original: TranslateActivity-debug.apk
+INFO:root:Mutante: TranslateActivity-debug19.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug7.apk;Situacao: VIVO;Operador: InvalidLabel
+INFO:root:Mutante: TranslateActivity-debug38.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug14.apk;Situacao: VIVO;Operador: ActivityNotDefined
+INFO:root:Mutante: TranslateActivity-debug8.apk;Situacao: VIVO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug11.apk;Situacao: VIVO;Operador: MissingPermissionManifest
+INFO:root:Mutante: TranslateActivity-debug27.apk;Situacao: VIVO;Operador: WrongStringResource
+INFO:root:Mutante: TranslateActivity-debug3.apk;Situacao: VIVO;Operador: InvalidActivityPATH
