@@ -1,0 +1,5 @@
+click(
+edit(
+menuclick(
+backmenuclick(
+clickLong(
