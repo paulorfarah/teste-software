@@ -14,22 +14,25 @@ from tela import capturar_tela, comparar_imagens
 def main():
 
     caminho_original = '../apks/original/'
-    apks = ['TippyTipper-debug', 'TranslateActivity-debug', 'arXiv-debug', 'ListLentObjects-debug']
-    apps = ['net.mandaria.tippytipper', 'com.beust.android.translate', 'com.commonsware.android.arXiv', 'de.freewarepoint.whohasmystuff']
-    activities = ['/.activities.TippyTipper', '/.TranslateActivity', '/.arXiv', '/.ListLentObjects']
+    #apks = ['TippyTipper-debug', 'TranslateActivity-debug', 'arXiv-debug', 'ListLentObjects-debug']
+    #apps = ['net.mandaria.tippytipper', 'com.beust.android.translate', 'com.commonsware.android.arXiv', 'de.freewarepoint.whohasmystuff']
+    #activities = ['/.activities.TippyTipper', '/.TranslateActivity', '/.arXiv', '/.ListLentObjects']
+    apks = ['TranslateActivity-debug']
+    apps = ['com.beust.android.translate']
+    activities = ['/.TranslateActivity']
 
     for i in range(len(apps)):
         apk = caminho_original + apks[i] + '.apk'
-        instalar_apk(apk)
-        saida = abrir_app(apps[i] + activities[i])
+        saida = instalar_apk(apk)
+        #saida = abrir_app(apps[i] + activities[i])
 
         if saida == 0:
             subprocess.call(
-                ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[i], "-s", "1000",
-                 "-v", "10", "--ignore-crashes", "--ignore-timeouts"])
-            sleep(1)
+                ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "250", "-p", apps[i], "-s", "1000",
+                 "-v", "10000", "--ignore-crashes", "--ignore-timeouts"])
+            sleep(2)
             capturar_tela(apps[i] + '-original.png')
-            sleep(0.2)
+            sleep(0.5)
         else:
             print 'erro ao abrir app original: ' + apps[i]
             desinstalar_apk(apps[i])
@@ -38,7 +41,8 @@ def main():
 
     #3. executar casos de teste nos mutantes
     caminho_mutantes = '../apks/mutantes/'
-    pastas_mutantes = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff'] ### ATENCAO: deve estar na mesma ordem do vetor apps
+    #pastas_mutantes = ['tippytipper', 'translate', 'arxiv', 'whohasmystuff'] ### ATENCAO: deve estar na mesma ordem do vetor apps
+    pastas_mutantes = ['translate']
 
     cont = 0
 
@@ -50,19 +54,19 @@ def main():
 
         for i in range(len(apks)):
             apk = caminho_mutantes + pasta + '/' + apks[i]
-            instalar_apk(apk)
+            saida = instalar_apk(apk)
 
-            saida = abrir_app(apps[cont] + activities[cont])
+            #saida = abrir_app(apps[cont] + activities[cont])
             match = re.search(r'\/[\w.-]+-debug\d+.apk', apk)
             fig_mutante = match.group()[1:-4] + '.png'
 
             if saida == 0:
                 subprocess.call(
-                    ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "200", "-p", apps[cont], "-s", "1000",
-                     "-v", "10", "--ignore-crashes", "--ignore-timeouts"])
-                sleep(1)
+                    ["timeout", "1h", "adb", "shell", "monkey", "--throttle", "250", "-p", apps[cont], "-s", "1000",
+                     "-v", "10000", "--ignore-crashes", "--ignore-timeouts"])
+                sleep(2)
                 capturar_tela(fig_mutante)
-                sleep(0.2)
+                sleep(0.5)
                 similar = comparar_imagens(apps[cont] + '-original.png', fig_mutante)
                 resultado.append([apk, similar])
             else:
