@@ -27,9 +27,6 @@ def abrir_app(app):
     print 'abrir app'
     #adb shell am start -n com.package.name/com.package.name.ActivityName
     output = subprocess.call(["adb", "shell", "am", "start", "-n", app])
-    print '---------------- output ---------------------------------'
-    print output
-    print '---------------- output ---------------------------------'
     return output
 
 def abrir_emulator(emulator):

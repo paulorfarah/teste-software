@@ -80,6 +80,11 @@ def operadorMutante(logpath, nmutante):
 
     return linha;
 
+def abrir_app(app):
+    #adb shell am start -n com.package.name/com.package.name.ActivityName
+    output = os.system("adb shell am start -n" + app)
+    return output;
+
 
 def main():
     # le os apks da pasta
@@ -103,10 +108,17 @@ def main():
     os.system('adb uninstall ' + package)
     os.system('adb install  ' + basepath + original)
 
+    abrir_app(package + '/.TranslateActivity')
+    sleep(1)
+    captureScreen(original + '1.png', basepath + 'Screenshots/')
+
+    os.system('adb uninstall ' + package)
+    os.system('adb install  ' + basepath + original)
+
     # executa monkey, ele cria caso de teste com a semente e executa no emulador,
     # eh necessario passar o package que esta localizado no arquivo Androidmanifest.xml:
     os.system(
-        'timeout 1h adb shell monkey --throttle 200 -p ' + package + ' -s 1001 -v 1000 --ignore-crashes --ignore-timeouts --ignore-security-exceptions > monkey.log')
+        'timeout 1h adb shell monkey --throttle 200 -p ' + package + ' -s 1004 -v 100 --ignore-crashes --ignore-timeouts --ignore-security-exceptions > monkey.log')
     sleep(1)
     captureScreen(original + '.png', basepath + 'Screenshots/')
 
@@ -119,13 +131,25 @@ def main():
         if mutante.startswith(cname) and mutante != original:
             os.system('adb uninstall ' + package)
             os.system('adb install ' + basepath + mutante)
-            os.system(
-                'timeout 1h adb shell monkey --throttle 200 -p ' + package + ' -s 1001 -v 1000 --ignore-crashes --ignore-timeouts --ignore-security-exceptions > monkey.log')
+
+            abrir_app(package + '/.TranslateActivity')
             sleep(1)
-            captureScreen(mutante + '.png', basepath + 'Screenshots/')
-            similar = analyze_results(basepath + 'Screenshots/', original + '.png', mutante + '.png')
+            captureScreen(mutante + '1.png', basepath + 'Screenshots/')
+            similar = analyze_results(basepath + 'Screenshots/', original + '1.png', mutante + '1.png')
             nmutante = re.search("\d+(?=\.apk)", mutante)
             operador = operadorMutante(logpath, nmutante.group())
+
+            # if similar:
+            #     print('entrou')
+            #     os.system('adb uninstall ' + package)
+            #     os.system('adb install ' + basepath + mutante)
+            #     os.system(
+            #         'timeout 1h adb shell monkey --throttle 200 -p ' + package + ' -s 1004 -v 100 --ignore-crashes --ignore-timeouts --ignore-security-exceptions > monkey.log')
+            #     sleep(1)
+            #     captureScreen(mutante + '.png', basepath + 'Screenshots/')
+            #     similar = analyze_results(basepath + 'Screenshots/', original + '.png', mutante + '.png')
+            #     nmutante = re.search("\d+(?=\.apk)", mutante)
+            #     operador = operadorMutante(logpath, nmutante.group())
 
             # se ainda nao comecou a contar operador
             if operador not in grupo:
@@ -152,6 +176,7 @@ def main():
             grupo[k]['morto']) + ";Total: " + str(t) + ";Score: " + str((float(grupo[k]['morto']) / t) * 100) + "%")
     logging.info("TOTAL MUTANTES: " + str(total))
     logging.info("SCORE: " + str((float(mortos) / total) * 100) + "%")
+    logging.info('ANALISE FINAL ' + datetime.now().strftime('%d-%m-%Y %H:%M:%S'))
 
 
 if __name__ == '__main__':
