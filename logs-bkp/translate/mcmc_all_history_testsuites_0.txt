@@ -1,0 +1,70 @@
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"menu
+click(className='android.widget.Button',instance='3'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Translate"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Translate"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"English"back
+edit(resource-id='com.beust.android.translate:id/translation'):android.widget.EditText@"The translation will appear here"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Translate"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Chinese"back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"
+edit(resource-id='com.beust.android.translate:id/translation'):android.widget.EditText@"The translation will appear here"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Czech"
+edit(resource-id='com.beust.android.translate:id/translation'):android.widget.EditText@"The translation will appear here"
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"Enter the text to translate"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Catalan"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Catalan"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"Dutch"menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Czech"menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Catalan"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Czech"
+menu
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Random word"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Dutch"menu
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"menu
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Random word"
+back
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"instead"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Catalan"back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Dutch"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"English"
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"Enter the text to translate"
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"Enter the text to translate"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Dutch"
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"instead"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Czech"backback
+edit(resource-id='com.beust.android.translate:id/input'):android.widget.EditText@"instead"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"English"menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"English"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Chinese"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Czech"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Translate"
+menu
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"History"back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Dutch"back

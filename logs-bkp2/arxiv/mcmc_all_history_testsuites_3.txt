@@ -1,0 +1,520 @@
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Deval Bhamare, Mohammed Samaka, Aiman Erbad, Raj Jain, Lav Gupta, H. Anthony Chan-Published: 2019-02-10 23:51:18-Category: cs.NI"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   A. D. Hillier  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Sonia Fahmy  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Updated: 2015-04-01 23:13:20-Published: 2015-03-23 13:53:30-Category: hep-ex"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   A. O. Bazarko  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Rohit Goyal  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Pedro Moreno-Sanchez  "
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Yongguan Ke, Jiahao Huang, Min Zhuang, Bo Lu, Chaohong Lee-Updated: 2018-10-28 07:55:50-Published: 2018-04-27 08:09:18-Category: quant-ph"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Chaohong Lee  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO O2 data"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO O2 data"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO O2 data"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Updated: 2019-05-24 18:46:07-Published: 2019-03-05 15:28:44-Category: astro-ph.HE"
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Updated: 2015-04-01 23:13:20-Published: 2015-03-23 13:53:30-Category: hep-ex"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   A. O. Bazarko  "
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Increase Font"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Cole Freeman  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Marc Schröder  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Yizhou Xin, Ingrid Stolt, Jeongseop A. Lee, Yu Song, Pengcheng Dai, W. P. Halperin-Updated: 2019-04-01 04:54:13-Published: 2019-03-28 21:33:03-Category: cond-mat.str-el"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Lu-Xing Yang  "
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Louis-Pierre Arguin, Warren Tai-Updated: 2018-10-23 19:00:42-Published: 2017-06-26 16:32:50-Category: math.PR"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Yong-Chang Huang  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Preinflationary Perturbations in The Thermal 
+back
+ground"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Yuan Yan Tang  "
+back
+scroll(direction='up')
+scroll(direction='down')
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Overload Based Explicit Rate Switch Schemes with MCR Guarantees"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Rohit Goyal  "
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@""
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"CS and Game Theory"
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"All-sky search for long-duration gravitational-wave transients in the second Advanced LIGO observing run"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Share Article"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"CS and Game Theory"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"A cost-effective rumor-containing strategy"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Sonia Fahmy  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Published: 2019-05-09 06:44:25-Category: gr-qc"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+scroll(direction='down')
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+scroll(direction='down')
+click(content-desc='More options'):android.widget.ImageButton@""
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Computers and Society"
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Decrease Font"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Increase Font"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Add to Favorites"
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Predicting Research that will be Cited in Policy Documents"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Roberto Cominetti  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Hamed Alhoori, Mohammed Samaka, Richard Furuta, Edward A. Fox-Updated: 2018-08-07 23:59:54-Published: 2016-12-23 03:26:40-Category: cs.DL"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Richard Williams  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Decrease Font"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Pradeep Samudra  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Exploring Micro-Services for Enhancing Internet QoS"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Xiaofan Yang  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Measurement of Moller Scattering at 2.5 MeV"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   P. Fisher  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+"
+clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Computer Vision and Pattern Recognition"
+back
+scroll(direction='up')
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Ge-Rui Chen, Yong-Chang Huang-Updated: 2015-02-12 07:56:43-Published: 2014-10-11 12:51:39-Category: gr-qc"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Hamed Alhoori  "
+back
+scroll(direction='up')
+scroll(direction='down')
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Yongguan Ke, Jiahao Huang, Min Zhuang, Bo Lu, Chaohong Lee-Updated: 2018-10-28 07:55:50-Published: 2018-04-27 08:09:18-Category: quant-ph"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Shiv Kalyanaraman  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Wireless Communications with Programmable Metasurface: Transceiver Design and Experimental Results"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Prudence Wong  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Xiangjian He  "
+back
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"RSS"
+back
+"
+clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"CS and Game Theory"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Evolution of charge order topology across a magnetic phase transition in cuprate superconductors"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Eugen Weschke  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Measurement of Moller Scattering at 2.5 MeV"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   P. Fisher  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Nicolás Stier-Moses  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Rohit Goyal  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@"""
+clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Computers and Society"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Bobby Vandalore, Sonia Fahmy, Raj Jain, Rohit Goyal, Mukul Goyal-Published: 1998-09-22 21:34:27-Category: cs.NI"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Sungtae Cho  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Yizhou Xin, Ingrid Stolt, Jeongseop A. Lee, Yu Song, Pengcheng Dai, W. P. Halperin-Updated: 2019-04-01 04:54:13-Published: 2019-03-28 21:33:03-Category: cond-mat.str-el"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Bobby Vandalore  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Decrease Font"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Yizhou Xin, Ingrid Stolt, Jeongseop A. Lee, Yu Song, Pengcheng Dai, W. P. Halperin-Updated: 2019-04-01 04:54:13-Published: 2019-03-28 21:33:03-Category: cond-mat.str-el"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Mohammed Samaka  "
+back
+"
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Defend against advanced persistent threats: An optimal control approach"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Yu Song  "
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Increase Font"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Efficient Virtual Network Function Placement Strategies for Cloud Radio Access Networks"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Luosheng Wen  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Theoretical study of the $Δ^{++}-Δ^-$ configuration in the deuteron using antiproton beam"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Cole Freeman  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+"
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Octet baryon electromagnetic form factor double ratios $(G_E^\ast/G_M^\ast)/(G_E/G_M)$ in a nuclear medium"
+back
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"A cost-effective rumor-containing strategy"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Kai-Jia Sun  "
+back
+"
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Categories"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Categories"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Categories"
+click(resource-id='android:id/home'):android.widget.ImageView@"""
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Rohit Goyal, Raj Jain, Shiv Kalyanaraman, Sonia Fahmy, Seong-Cheol Kim-Published: 1998-09-24 03:12:42-Category: cs.NI"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Bobby Vandalore  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Analysis of Application Delivery Platform for Software Defined Infrastructures"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Raj Jain  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Fully-control of OAM vortex beam and realization of retro and negative reflection at oblique incidence using dual-band 2-bit coding metasurface"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Kai-Jia Sun  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Andreas S. Kronfeld  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@""
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam-Updated: 2019-05-14 16:27:20-Published: 2019-05-06 19:38:31-Category: cs.CV"
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"   Quoc V. Le  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Efficient Virtual Network Function Placement Strategies for Cloud Radio Access Networks"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Li Zhang  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Edward A. Fox  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Sonia Fahmy  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Hyperbolic Interaction Model For Hierarchical Multi-Label Classification"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Mind Your Credit: Assessing the Health of the Ripple Credit Network"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Kai-Jia Sun  "
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Published: 2019-03-28 14:45:16-Category: gr-qc"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Yang Lu, Yiu-ming Cheung, Yuan Yan Tang-Published: 2019-01-29 08:42:56-Category: cs.LG"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Ben Amiet  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Semi-Unsupervised Lifelong Learning for Sentiment Classification"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Tie Jun Cui  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Mohammed Samaka  "
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Zhen Zhang  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Computers and Society"
+back
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"-Authors: Cole Freeman, Mrinal Kanti Roy, Michele Fattoruso, Hamed Alhoori-Cross-Ref: cs.SI"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Shiv Kalyanaraman  "
+back
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"-Authors: Cole Freeman, Mrinal Kanti Roy, Michele Fattoruso, Hamed Alhoori-Cross-Ref: cs.SI"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Xiangjian He  "
+back
+scroll(direction='up')
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Defend against advanced persistent threats: An optimal control approach"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Sonia Fahmy  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Evolution of charge order topology across a magnetic phase transition in cuprate superconductors"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Ronny Sutarto  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Measurement of Moller Scattering at 2.5 MeV"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   P. Fisher  "
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"arXiv API"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"RSS"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"arXiv API"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"arXiv API"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Hamed Alhoori  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Mohammed Samaka  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Evolution of charge order topology across a magnetic phase transition in cuprate superconductors"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   H. O. 
+back
+  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Lu-Xing Yang  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"RSS"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"New Article Source"
+back
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"The 'arXiv API' option is recommended. The RSS source does not support the widget and only shows the most recent days articles."
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+back
+"
+clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Computer Vision and Pattern Recognition"
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Liping Jing  "
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Preferences"
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Computer Vision and Pattern Recognition"
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Tsutomu Ishikawa, Katsumasa Nakayama, Daiki Suenaga, Kei Suzuki-Cross-Ref: hep-ph"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   A. B. Larionov  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Theoretical study of the $Δ^{++}-Δ^-$ configuration in the deuteron using antiproton beam"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Songnan Li  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Anatomy of Scholarly Information Behavior Patterns in the Wake of Academic Social Media Platforms"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Mrinal Kanti Roy  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"All-sky search for long-duration gravitational-wave transients in the second Advanced LIGO observing run"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Mind Your Credit: Assessing the Health of the Ripple Credit Network"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"CS and Game Theory"
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: G. Ramalho, J. P. B. C. de Melo, K. Tsushima-Published: 2019-02-23 20:32:31-Category: hep-ph"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   A.B. Larionov  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Pedro Moreno-Sanchez, Navin Modi, Raghuvir Songhela, Aniket Kate, Sonia Fahmy-Updated: 2018-03-11 22:44:10-Published: 2017-06-07 19:42:31-Category: cs.SI"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Seong-Cheol Kim  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Xiang Li, Xiaolin Hu, Jian Yang-Updated: 2019-05-25 08:07:40-Published: 2019-05-23 13:36:54-Category: cs.CV"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Andrea Collevecchio  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"HEP Experiment"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Pion structure in a nuclear medium"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Yong-chang Huang  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/previousbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Splittings of low-lying charmonium masses at the physical point"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Bobby Vandalore  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Large deviations and continuity estimates for the derivative of a random model of $\log |ζ|$ on the critical line"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Shiyong Ma  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+"
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Updated: 2019-05-24 18:46:07-Published: 2019-03-05 15:28:44-Category: astro-ph.HE"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Vision Based Picking System for Automatic Express Package Dispatching"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Yuanhua Feng  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Published: 2019-05-09 06:44:25-Category: gr-qc"
+scroll(direction='down')
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Increase Font"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Buffer Requirements For TCP/IP Over ABR"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Richard Williams  "
+back
+"
+clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Computer Science"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Computers and Society"
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Deval Bhamare, Mohammed Samaka, Aiman Erbad, Raj Jain, Lav Gupta, H. Anthony Chan-Published: 2019-02-10 23:51:18-Category: cs.NI"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   H. Anthony Chan  "
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Optimal Virtual Network Function Placement and Resource Allocation in Multi-Cloud Service Function Chaining Architecture"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Aiman Erbad  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Published: 2019-05-09 06:44:25-Category: gr-qc"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Increase Font"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Raj Jain, Shiv Kalyanaraman, Ram Viswanathan-Published: 1998-09-24 03:44:22-Category: cs.NI"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Raj Jain  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Raúl A. Briceño, Maxwell T. Hansen, Stephen R. Sharpe, Adam P. Szczepaniak"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Stephen R. Sharpe  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"HEP Lattice"
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Christian S. Fischer  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Exploring Micro-Services for Enhancing Internet QoS"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Raghuvir Songhela  "
+back
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"-Authors: Cole Freeman, Mrinal Kanti Roy, Michele Fattoruso, Hamed Alhoori-Cross-Ref: cs.SI"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Cheng Pan  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Gernot Eichmann, Christian S. Fischer, Esther Weil, Richard Williams-Published: 2019-03-26 12:58:06-Category: hep-ph"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   A. B. Larionov  "
+back
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+click(resource-id='com.commonsware.android.arXiv:id/icon'):android.widget.ImageView@"""
+clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"HEP Phenomenology"
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Nathan Callahan, Chen-Yu Liu, Francisco Gonzalez, Evan Adamek, James David Bowman, Leah Broussard, S. M. Clayton, S. Currie, C. Cude-Woods, E. B. Dees, X. Ding, E. M. Egnel, D. Fellers, W. Fox, P. Geltenbort, K. P. Hickerson, M. A. Hoffbauer, A. T. Holley, A. Komives, S. W. T. MacDonald, M. Makela, C. L. Morris, J. D. Ortiz, R. W. Pattie Jr, J. Ramsey, D. J. Salvat, A. Saunders, S. J. Seestrom, E. I. Sharapov, S. K. L. Sjue, Z. Tang, J. Vanderwerp, B. Vogelaar, P. L. Walstrom, Z. Wang, H. Weaver, W. Wei, J. Wexler, A. R. Young, B. A. Zeck-Published: 2018-10-16 18:45:57-Category: physics.ins-det"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Enrico Schierle  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Nathan Callahan, Chen-Yu Liu, Francisco Gonzalez, Evan Adamek, James David Bowman, Leah Broussard, S. M. Clayton, S. Currie, C. Cude-Woods, E. B. Dees, X. Ding, E. M. Egnel, D. Fellers, W. Fox, P. Geltenbort, K. P. Hickerson, M. A. Hoffbauer, A. T. Holley, A. Komives, S. W. T. MacDonald, M. Makela, C. L. Morris, J. D. Ortiz, R. W. Pattie Jr, J. Ramsey, D. J. Salvat, A. Saunders, S. J. Seestrom, E. I. Sharapov, S. K. L. Sjue, Z. Tang, J. Vanderwerp, B. Vogelaar, P. L. Walstrom, Z. Wang, H. Weaver, W. Wei, J. Wexler, A. R. Young, B. A. Zeck-Published: 2018-10-16 18:45:57-Category: physics.ins-det"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Eugen Weschke  "
+back
+scroll(direction='down')
+scroll(direction='down')
+scroll(direction='down')
+scroll(direction='up')
+scroll(direction='up')
+scroll(direction='up')
+scroll(direction='up')
+scroll(direction='down')
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"-Authors: Yongguan Ke, Jiahao Huang, Min Zhuang, Bo Lu, Chaohong Lee-Updated: 2018-10-28 07:55:50-Published: 2018-04-27 08:09:18-Category: quant-ph"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Lin Xiao  "
+back

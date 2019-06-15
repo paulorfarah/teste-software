@@ -177,7 +177,7 @@ def parser(action_cmd):
         # Note we should include the quotes to avoid the existence of whitespaces in the action_param_value
         action_param_value = action_cmd[first_quote_index:last_quote_index]
         # puts "[D]: #{action_type}, #{action_param}, #{action_param_value}"
-        # print action_type + action_param + ' ' + action_param_value
+        print action_type + action_param + ' ' + action_param_value
         return [action_type + action_param, action_param_value]
 
     else:
@@ -186,9 +186,13 @@ def parser(action_cmd):
 
         class_name_pattr = re.compile('className=\'(.*)\',')
         class_name = class_name_pattr.findall(action_cmd)[0]
-        instance_pattr = re.compile('instance=\'(.*)\'')
-        instance = instance_pattr.findall(action_cmd)[0]
-        return [action_type + action_param, class_name, instance]
+        # instance_pattr = re.compile('instance=\'(.*)\'')
+        instance_pattr = re.compile("instance=\'[0-9]+\'")
+        instance_number = int(re.findall("(\d+)", instance_pattr.findall(action_cmd)[0])[0])
+        # print(matches)
+        # print instance_number
+        #instance = (instance_pattr.findall(instance_number)[0])#.replace('//', '')
+        return [action_type + action_param, class_name, instance_number]
 
 
 def executar_evento(action_cmd):

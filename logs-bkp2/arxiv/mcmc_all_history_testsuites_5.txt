@@ -1,0 +1,606 @@
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"A study in non-canonical domain of Goldstone inflaton"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Niloy Biswas  "
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"On the minimum mass of neutron stars"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Yiquan Zhang  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Shengdong Lu  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"TOI-150: A transiting hot Jupiter in the TESS southern CVZ"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   R. Paul Butler  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Alexey M. Shakirov, Alexey N. Rubtsov, Pedro Ribeiro-Updated: 2019-03-04 21:36:47-Published: 2018-06-21 14:20:49-Category: cond-mat.mes-hall"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Arnaud Doucet  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Video-to-Video Translation for Visual Speech Synthesis"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Joseph E. Rodriguez, Samuel N. Quinn, Chelsea X. Huang, Andrew Vanderburg, Kaloyan Penev, Rafael Brahm, Andrés Jordán, Mma Ikwut-Ukwa, Shelly Tsirulik, David W. Latham, Keivan G. Stassun, Avi Shporer, Carl Ziegler, Elisabeth Matthews, Jason D. Eastman, B. Scott Gaudi, Karen A. Collins, Natalia Guerrero, Howard M. Relles, Thomas Barclay, Natalie E. Batalha, Perry Berlind, Allyson Bieryla, L. G. Bouma, Patricia T Boyd, Jennifer Burt, Michael L. Calkins, Jessie Christiansen, David R. Ciardi, Knicole D. Colón, Dennis M. Conti, Ian J. M. Crossfield, Tansu Daylan, Jason Dittmann, Diana Dragomir, Scott Dynes, Néstor Espinoza, Gilbert A. Esquerdo, Zahra Essack, Aylin Garcia Soto, Ana Glidden, Maximilian N. Günther, Thomas Henning, Jon M. Jenkins, John F. Kielkopf, Akshata Krishnamurthy, Nicholas M. Law, Alan M. Levine, Pablo Lewin, Andrew W. Mann, Edward H. Morgan, Robert L. Morris, Ryan J. Oelkers, Martin Paegert, Joshua Pepper, Elisa V. Quintana, George R. Ricker, Pamela Rowden, Sara Seager, Paula Sarkis, Joshua E. Schlieder, Lizhou Sha, Andrei Tokovinin, Guillermo Torres, Roland K. Vanderspek, Steven Villanueva Jr., Jesus Noel Villaseñor, Joshua N. Winn, Bill Wohler, Ian Wong, Daniel A. Yahalomi, Liang Yu, Zhuchang Zhan, George Zhou-Updated: 2019-04-16 21:15:15-Published: 2019-01-28 19:20:55-Category: astro-ph.EP"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Chas Beichman  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='15'):android.widget.TextView@"   John Kenneth Anders  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Keivan G. Stassun, Ryan J. Oelkers, Martin Paegert, Guillermo Torres, Joshua Pepper, Nathan De Lee, Kevin Collins, David W. Latham, Philip S. Muirhead, Jay Chittidi, Barbara Rojas-Ayala, Scott W. Fleming, Mark E. Rose, Peter Tenenbaum, Eric B. Ting, Stephen R. Kane, Thomas Barclay, Jacob L. Bean, C. E. Brassuer, David Charbonneau, Jack J. Lissauer, Andrew W. Mann, Brian McLean, Susan Mulally, Norio Narita, Peter Plavchan, George R. Ricker, Dimitar Sasselov, S. Seager, Sanjib Sharma, Bernie Shiao, Alessandro Sozzetti, Dennis Stello, Roland Vanderspek, Geoff Wallace, Joshua N. Winn-Published: 2019-05-25 23:21:20-Category: astro-ph.SR"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Rafael Brahm  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+menu
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Unveiling the Boxy Bulge and Bar of the Andromeda Spiral Galaxy"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Sangwook Park  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ACRONYM III: Radial Velocities for 336 Candidate Young Low-Mass Stars in the Solar Neighborhood, Including 78 Newly Confirmed Young Moving Group Members"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Gábor Steinbach  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"FASER's Physics Reach for Long-Lived Particles"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Didier Ferrere  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"-Authors: Motohiko Kusakabe, Toshitaka Kajino, Takashi Yoshida, Grant J. Mathews-Published: 2010-01-09 09:29:34-Category: astro-ph.CO"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: David S. Doelman, Peter Tuthill, Barnaby Norris, Michael J. Wilby, Emiel H. Por, Christoph U. Keller, Michael J. Escuti, Frans Snik-Published: 2018-08-02 10:23:20-Category: astro-ph.IM"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Heinz Isliker  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Stefano Bianchi, Robert Antonucci, Alessandro Capetti, Marco Chiaberge, Ari Laor, Loredana Bassani, Francisco J. Carrera, Fabio La Franca, Andrea Marinucci, Giorgio Matt, Riccardo Middei, Francesca Panessa-Published: 2019-05-23 13:00:50-Category: astro-ph.HE"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Francisco J. Carrera  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"-Authors: Motohiko Kusakabe, Toshitaka Kajino, Takashi Yoshida, Grant J. Mathews-Published: 2010-01-09 09:29:34-Category: astro-ph.CO"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Xiaobai Li  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Probing the Innermost Ejecta Layers in SNR Kes 75: Implications for the Supernova Progenitor"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Alexandra Johnson  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Giorgos Bouritsas, Sergiy Bokhnyak, Stylianos Ploumpis, Michael Bronstein, Stefanos Zafeiriou-Updated: 2019-05-09 21:14:27-Published: 2019-05-08 02:37:27-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Sergiy Bokhnyak  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Ejecta Kinematics Study of Kepler's Supernova Remnant with High-Resolution $Chandra$ HETG Spectroscopy"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Carles Badenes  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Ejecta Kinematics Study of Kepler's Supernova Remnant with High-Resolution $Chandra$ HETG Spectroscopy"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Carles Badenes  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"FASER's Physics Reach for Long-Lived Particles"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Didier Ferrere  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Alex Drlica-Wagner, Yao-Yuan Mao, Susmita Adhikari, Robert Armstrong, Arka Banerjee, Nilanjan Banik, Keith Bechtol, Simeon Bird, Kimberly K. Boddy, Ana Bonaca, Jo Bovy, Matthew R. Buckley, Esra Bulbul, Chihway Chang, George Chapline, Johann Cohen-Tanugi, Alessandro Cuoco, Francis-Yan Cyr-Racine, William A. Dawson, Ana Díaz Rivero, Cora Dvorkin, Denis Erkal, Christopher D. Fassnacht, Juan García-Bellido, Maurizio Giannotti, Vera Gluscevic, Nathan Golovich, David Hendel, Yashar D. Hezaveh, Shunsaku Horiuchi, M. James Jee, Manoj Kaplinghat, Charles R. Keeton, Sergey E. Koposov, Casey Y. Lam, Ting S. Li, Jessica R. Lu, Rachel Mandelbaum, Samuel D. McDermott, Mitch McNanna, Michael Medford, Manuel Meyer, Moniez Marc, Simona Murgia, Ethan O. Nadler, Lina Necib, Eric Nuss, Andrew B. Pace, Annika H. G. Peter, Daniel A. Polin, Chanda Prescod-Weinstein, Justin I. Read, Rogerio Rosenfeld, Nora Shipp, Joshua D. Simon, Tracy R. Slatyer, Oscar Straniero, Louis E. Strigari, Erik Tollerud, J. Anthony Tyson, Mei-Yu Wang, Risa H. Wechsler, David Wittman, Hai-Bo Yu, Gabrijela Zaharijas, Yacine Ali-Haïmoud, James Annis, Simon Birrer, Rahul Biswas, Jonathan Blazek, Alyson M. Brooks, Elizabeth Buckley-Geer, Regina Caputo, Eric Charles, Seth Digel, Scott Dodelson, Brenna Flaugher, Joshua Frieman, Eric Gawiser, Andrew P. Hearin, Renee Hložek, Bhuvnesh Jain, Tesla E. Jeltema, Savvas M. Koushiappas, Mariangela Lisanti, Marilena LoVerde, Siddharth Mishra-Sharma, Jeffrey A. Newman, Brian Nord, Erfan Nourbakhsh, Steven Ritz, Brant E. Robertson, Miguel A. Sánchez-Conde, Anže Slosar, Tim M. P. Tait, Aprajita Verma, Ricardo Vilalta, Christopher W. Walter, Brian Yanny, Andrew R. Zentner-Updated: 2019-04-24 04:48:54-Published: 2019-02-04 07:13:42-Category: astro-ph.CO"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Yacine Ali-Haimoud  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Keivan G. Stassun  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Olga Zamora  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Sources of Solar Energetic Particles"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Eric Nalisnick  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Remote Sensing of Chiral Signatures on Mars"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Athanasios Papaioannou  "
+back
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Sources of Solar Energetic Particles"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Dominik Kulon  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Cail Daley, A. Meredith Hughes, Evan S. Carter, Kevin Flaherty, Zachary Lambros, Margaret Pan, Hilke Schlichting, Eugene Chiang, Mark Wyatt, David Wilner, Sean Andrews, John Carpenter-Updated: 2019-04-08 20:51:05-Published: 2019-03-29 18:01:20-Category: astro-ph.EP"
+click(className='android.widget.TextView',instance='14'):android.widget.TextView@"   John Carpenter  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"The rate of iPTF 14gqr like ultra-stripped supernovae and binary evolution leading to double neutron star formation"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Jack Runburg  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   D M S Sultan  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Chad F. Bender  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Supernova Remnants in High Definition"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Philippe Raffin  "
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Dandan Xu, Ling Zhu, Robert Grand, Volker Springel, Shude Mao, Glenn van de Ven, Shengdong Lu, Yougang Wang, Annalisa Pillepich, Shy Genel, Dylan Nelson, Vicente Rodriguez-Gomez, Ruediger Pakmor, Rainer Weinberger, Federico Marinacci, Mark Vogelsberger, Paul Torrey, Naiman Jill, Lars Hernquist-Published: 2019-05-27 18:00:05-Category: astro-ph.GA"
+click(className='android.widget.TextView',instance='14'):android.widget.TextView@"   Vicente Rodriguez-Gomez  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Giorgos Bouritsas, Sergiy Bokhnyak, Stylianos Ploumpis, Michael Bronstein, Stefanos Zafeiriou-Updated: 2019-05-09 21:14:27-Published: 2019-05-08 02:37:27-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Airong Chen  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Electronics Instrumentation for the Greenland Telescope"
+click(className='android.widget.TextView',instance='23'):android.widget.TextView@"   Yilen Gómez Maqueo Chew  "
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Decrease Font"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+click(className='android.widget.TextView',instance='17'):android.widget.TextView@"   Aya Higuchi  "
+back
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: Grigorios G. Chrysos, Yannis Panagakis, Stefanos Zafeiriou-Published: 2018-01-20 12:08:59-Category: cs.CV"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Joshua E. Schlieder  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Joseph E. Rodriguez, Samuel N. Quinn, Chelsea X. Huang, Andrew Vanderburg, Kaloyan Penev, Rafael Brahm, Andrés Jordán, Mma Ikwut-Ukwa, Shelly Tsirulik, David W. Latham, Keivan G. Stassun, Avi Shporer, Carl Ziegler, Elisabeth Matthews, Jason D. Eastman, B. Scott Gaudi, Karen A. Collins, Natalia Guerrero, Howard M. Relles, Thomas Barclay, Natalie E. Batalha, Perry Berlind, Allyson Bieryla, L. G. Bouma, Patricia T Boyd, Jennifer Burt, Michael L. Calkins, Jessie Christiansen, David R. Ciardi, Knicole D. Colón, Dennis M. Conti, Ian J. M. Crossfield, Tansu Daylan, Jason Dittmann, Diana Dragomir, Scott Dynes, Néstor Espinoza, Gilbert A. Esquerdo, Zahra Essack, Aylin Garcia Soto, Ana Glidden, Maximilian N. Günther, Thomas Henning, Jon M. Jenkins, John F. Kielkopf, Akshata Krishnamurthy, Nicholas M. Law, Alan M. Levine, Pablo Lewin, Andrew W. Mann, Edward H. Morgan, Robert L. Morris, Ryan J. Oelkers, Martin Paegert, Joshua Pepper, Elisa V. Quintana, George R. Ricker, Pamela Rowden, Sara Seager, Paula Sarkis, Joshua E. Schlieder, Lizhou Sha, Andrei Tokovinin, Guillermo Torres, Roland K. Vanderspek, Steven Villanueva Jr., Jesus Noel Villaseñor, Joshua N. Winn, Bill Wohler, Ian Wong, Daniel A. Yahalomi, Liang Yu, Zhuchang Zhan, George Zhou-Updated: 2019-04-16 21:15:15-Published: 2019-01-28 19:20:55-Category: astro-ph.EP"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Jay Chittidi  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Angular distribution of gamma-ray emission from velocity-dependent dark matter annihilation in subhalos"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Tomoya Kinugawa  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"-Authors: Motohiko Kusakabe, Toshitaka Kajino, Takashi Yoshida, Grant J. Mathews-Published: 2010-01-09 09:29:34-Category: astro-ph.CO"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Pierre E. Jacob  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"A novel detector system for KATRIN to search for keV-scale sterile neutrinos"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Luca Bombelli  "
+back
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Stages of Reionization as revealed by the Minkowski Functionals"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Hui Wang  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: Grigorios G. Chrysos, Yannis Panagakis, Stefanos Zafeiriou-Published: 2018-01-20 12:08:59-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Viktoriia Sharmanska  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Single Image 3D Hand Reconstruction with Mesh Convolutions"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Haoyang Wang  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"A study of stellar orbit fractions: simulated IllustrisTNG galaxies compared to CALIFA observations"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Arka Banerjee  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"HST unveils a compact mildly relativistic Broad Line Region in the candidate true type 2 NGC 3147"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"   Eugene Chiang  "
+back
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Chandra Early-Type Galaxy Atlas"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Yuxiang Zhou  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Spitzer Space Telescope Observations of the Aftermath of Microlensing Event MACHO-LMC-5"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Pedro Ribeiro  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Muzammil Behzad, Nhat Vo, Xiaobai Li, Guoying Zhao-Published: 2019-05-07 01:44:26-Category: cs.CV"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   David DeBoer  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Keivan G. Stassun  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"48 Crepant Paths to $\text{SU}(2)\!\times\!\text{SU}(3)$"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Rebecca M. Sparks  "
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+menu
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+menu
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+menu
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Zitong Yu, Xiaobai Li, Guoying Zhao-Published: 2019-05-07 09:02:37-Category: cs.CV"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   James Oldfield  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Keivan G. Stassun  "
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Raymond Blundell  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Efficient parallel algorithm for estimating higher-order polyspectra"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   James Oldfield  "
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Long-Period Giant Companions to Three Compact, Multiplanet Systems"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Olga Zamora  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"A novel detector system for KATRIN to search for keV-scale sterile neutrinos"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Ettore Zaffaroni  "
+back
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Matthew J. Millard, Jayant Bhalerao, Sangwook Park, Toshiki Sato, John P. Hughes, Patrick Slane, Daniel Patnaude, David Burrows, Carles Badenes-Updated: 2019-05-14 18:59:56-Published: 2019-05-11 07:59:42-Category: astro-ph.HE"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Nitya Kallivayalil  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Chas Beichman  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Keivan G. Stassun, Ryan J. Oelkers, Martin Paegert, Guillermo Torres, Joshua Pepper, Nathan De Lee, Kevin Collins, David W. Latham, Philip S. Muirhead, Jay Chittidi, Barbara Rojas-Ayala, Scott W. Fleming, Mark E. Rose, Peter Tenenbaum, Eric B. Ting, Stephen R. Kane, Thomas Barclay, Jacob L. Bean, C. E. Brassuer, David Charbonneau, Jack J. Lissauer, Andrew W. Mann, Brian McLean, Susan Mulally, Norio Narita, Peter Plavchan, George R. Ricker, Dimitar Sasselov, S. Seager, Sanjib Sharma, Bernie Shiao, Alessandro Sozzetti, Dennis Stello, Roland Vanderspek, Geoff Wallace, Joshua N. Winn-Published: 2019-05-25 23:21:20-Category: astro-ph.SR"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Nathan De Lee  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Meredith A. MacGregor, Alycia J. Weinberger, Erika R. Nesvold, A. Meredith Hughes, D. J. Wilner, Thayne Currie, John H. Debes, Jessica K. Donaldson, Seth Redfield, Aki Roberge, Glenn Schneider-Published: 2019-05-20 18:00:02-Category: astro-ph.EP"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Michael Zemcov  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Joseph E. Rodriguez, Samuel N. Quinn, Chelsea X. Huang, Andrew Vanderburg, Kaloyan Penev, Rafael Brahm, Andrés Jordán, Mma Ikwut-Ukwa, Shelly Tsirulik, David W. Latham, Keivan G. Stassun, Avi Shporer, Carl Ziegler, Elisabeth Matthews, Jason D. Eastman, B. Scott Gaudi, Karen A. Collins, Natalia Guerrero, Howard M. Relles, Thomas Barclay, Natalie E. Batalha, Perry Berlind, Allyson Bieryla, L. G. Bouma, Patricia T Boyd, Jennifer Burt, Michael L. Calkins, Jessie Christiansen, David R. Ciardi, Knicole D. Colón, Dennis M. Conti, Ian J. M. Crossfield, Tansu Daylan, Jason Dittmann, Diana Dragomir, Scott Dynes, Néstor Espinoza, Gilbert A. Esquerdo, Zahra Essack, Aylin Garcia Soto, Ana Glidden, Maximilian N. Günther, Thomas Henning, Jon M. Jenkins, John F. Kielkopf, Akshata Krishnamurthy, Nicholas M. Law, Alan M. Levine, Pablo Lewin, Andrew W. Mann, Edward H. Morgan, Robert L. Morris, Ryan J. Oelkers, Martin Paegert, Joshua Pepper, Elisa V. Quintana, George R. Ricker, Pamela Rowden, Sara Seager, Paula Sarkis, Joshua E. Schlieder, Lizhou Sha, Andrei Tokovinin, Guillermo Torres, Roland K. Vanderspek, Steven Villanueva Jr., Jesus Noel Villaseñor, Joshua N. Winn, Bill Wohler, Ian Wong, Daniel A. Yahalomi, Liang Yu, Zhuchang Zhan, George Zhou-Updated: 2019-04-16 21:15:15-Published: 2019-01-28 19:20:55-Category: astro-ph.EP"
+click(className='android.widget.TextView',instance='20'):android.widget.TextView@"   Steven R. Majewski  "
+back
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"   Varoujan Gorjian  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Hien Trong Nguyen, Nitya Kallivayalil, Michael Werner, Charles Alcock, Brian Patten, Daniel Stern-Published: 2004-06-01 21:04:39-Category: astro-ph"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Ko Nakamura  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: Grigorios G. Chrysos, Yannis Panagakis, Stefanos Zafeiriou-Published: 2018-01-20 12:08:59-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Gregory Fasshauer  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Unveiling the Boxy Bulge and Bar of the Andromeda Spiral Galaxy"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Steven R. Majewski  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider"
+scroll(direction='up')
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Astro2020 Science White Paper: Synergies Between Galaxy Surveys and Reionization Measurements"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Keith Bechtol  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Chandra Early-Type Galaxy Atlas"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Susanne Mertens  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Changye Wu, Christian P. Robert-Updated: 2019-04-11 08:20:08-Published: 2018-09-10 15:21:11-Category: stat.CO"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Sukannya Bhattacharya  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: David S. Doelman, Peter Tuthill, Barnaby Norris, Michael J. Wilby, Emiel H. Por, Christoph U. Keller, Michael J. Escuti, Frans Snik-Published: 2018-08-02 10:23:20-Category: astro-ph.IM"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Björn Schuller  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Close companions around young stars"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Probing the Innermost Ejecta Layers in SNR Kes 75: Implications for the Supernova Progenitor"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Scott Clark  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Kotaro Hijikawa, Tomoya Kinugawa, Takashi Yoshida, Hideyuki Umeda-Published: 2019-03-18 17:15:02-Category: astro-ph.HE"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Xuelei Chen  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The Time-Domain Spectroscopic Survey: Radial Velocity Variability in Dwarf Carbon Stars"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Carles Badenes  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"SvTPM: A Secure and Efficient vTPM in the Cloud"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Juan Wang  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Howard Isaacson  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Raymond Blundell  "
+back
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"-Authors: Xiaokang Wen, Suzhi Bi, Xiaohui Lin, Lina Yuan, Juan Wang-Published: 2019-01-03 04:40:33-Category: cs.NI"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Frank Robb  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Muzammil Behzad, Nhat Vo, Xiaobai Li, Guoying Zhao-Published: 2019-05-07 01:44:26-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Katie Auchettl  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Raymond Blundell  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Performance of the Gemini Planet Imager Non-Redundant Mask and spectroscopy of two close-separation binaries HR 2690 and HD 142527"
+scroll(direction='down')
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Stages of Reionization as revealed by the Minkowski Functionals"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Christian P. Robert  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Chandra Early-Type Galaxy Atlas"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Susanne Mertens  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Unveiling the Boxy Bulge and Bar of the Andromeda Spiral Galaxy"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Carles Badenes  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"FASER's Physics Reach for Long-Lived Particles"
+click(className='android.widget.TextView',instance='16'):android.widget.TextView@"   Patrick Slane  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"The Geometry of SO(3), SO(5), and SO(6) models"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Alexandra Johnson  "
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(resource-id='android:id/home'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Juan Wang, Chengyang Fan, Jie Wang, Yueqiang Cheng, Yinqian Zhang, Wenhui Zhang, Peng Liu, Hongxin Hu-Published: 2019-05-21 08:39:52-Category: cs.CR"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Chengyang Fan  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Stylianos Moschoglou, Stylianos Ploumpis, Mihalis Nicolaou, Athanasios Papaioannou, Stefanos Zafeiriou-Updated: 2019-05-09 22:24:51-Published: 2019-05-01 13:31:01-Category: cs.CV"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Michael Bronstein  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Luca Matrà, Quentin Kral, Kate Su, Alexis Brandeker, William Dent, Andras Gaspar, Grant Kennedy, Sebastian Marino, Karin Öberg, Aki Roberge, David Wilner, Paul Wilson, Mark Wyatt, Gianni Cataldi, Aya Higuchi, Meredith Hughes, Flavien Kiefer, Alain Lecavelier des Etangs, Wladimir Lyra, Brenda Matthews, Attila Moór, Barry Welsh, Ben Zuckerman-Published: 2019-04-04 18:00:00-Category: astro-ph.EP"
+click(className='android.widget.TextView',instance='17'):android.widget.TextView@"   Aya Higuchi  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Dandan Xu, Ling Zhu, Robert Grand, Volker Springel, Shude Mao, Glenn van de Ven, Shengdong Lu, Yougang Wang, Annalisa Pillepich, Shy Genel, Dylan Nelson, Vicente Rodriguez-Gomez, Ruediger Pakmor, Rainer Weinberger, Federico Marinacci, Mark Vogelsberger, Paul Torrey, Naiman Jill, Lars Hernquist-Published: 2019-05-27 18:00:05-Category: astro-ph.GA"
+click(className='android.widget.TextView',instance='14'):android.widget.TextView@"   Vicente Rodriguez-Gomez  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Stages of Reionization as revealed by the Minkowski Functionals"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Jack Runburg  "
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Mathematical Physics"
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Unveiling the Boxy Bulge and Bar of the Andromeda Spiral Galaxy"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Scott F. Anderson  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ACRONYM III: Radial Velocities for 336 Candidate Young Low-Mass Stars in the Solar Neighborhood, Including 78 Newly Confirmed Young Moving Group Members"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Michael J. Escuti  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"-Authors: Grigorios G. Chrysos, Yannis Panagakis, Stefanos Zafeiriou-Published: 2018-01-20 12:08:59-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Natesh Pillai  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.TextView',instance='19'):android.widget.TextView@"   Thomas Barclay  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"The L 98-59 System: Three Transiting, Terrestrial-Sized Planets Orbiting a Nearby M-dwarf"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Strongly Correlated Electrons"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Alexandra Z. Greenbaum, Anthony Cheetham, Anand Sivaramakrishnan, Fredrik T. Rantakyrö, Gaspard Duchêne, Peter Tuthill, Robert J. De Rosa, Rebecca Oppenheimer, Bruce Macintosh, S. Mark Ammons, Vanessa P. Bailey, Travis Barman, Joanna Bulger, Andrew Cardwell, Jeffrey Chilcote, Tara Cotten, Rene Doyon, Michael P. Fitzgerald, Katherine B. Follette, Benjamin L. Gerard, Stephen J. Goodsell, James R. Graham, Pascale Hibon, Li-Wei Hung, Patrick Ingraham, Paul Kalas, Quinn Konopacky, James E. Larkin, Jérôme Maire, Franck Marchis, Mark S. Marley, Christian Marois, Stanimir Metchev, Maxwell A. Millar-Blanchaer, Katie M. Morzinski, Eric L. Nielsen, David Palmer, Jennifer Patience, Marshall Perrin, Lisa Poyneer, Laurent Pueyo, Abhijith Rajan, Julien Rameau, Naru Sadakuni, Dmitry Savransky, Adam C. Schneider, Inseok Song, Remi Soummer, Sandrine Thomas, J. Kent Wallace, Jason J. Wang, Kimberly Ward-Duong, Sloane Wiktorowicz, Schuyler Wolff-Published: 2019-04-18 20:35:16-Category: astro-ph.IM"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Nagayoshi Ohashi  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"   Chas Beichman  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Characterizing K2 Candidate Planetary Systems Orbiting Low-Mass Stars IV: Updated Properties for 86 Cool Dwarfs Observed During Campaigns 1-17"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"   Makennah Bristow  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Shengdong Lu  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Single Image 3D Hand Reconstruction with Mesh Convolutions"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Akihiro Matsukawa  "
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+"
+clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Condensed Matter"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"The surprisingly low carbon mass in the debris disk around HD 32297"
+click(className='android.widget.TextView',instance='18'):android.widget.TextView@"   Tara Cotten  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Alexandra Z. Greenbaum, Anthony Cheetham, Anand Sivaramakrishnan, Fredrik T. Rantakyrö, Gaspard Duchêne, Peter Tuthill, Robert J. De Rosa, Rebecca Oppenheimer, Bruce Macintosh, S. Mark Ammons, Vanessa P. Bailey, Travis Barman, Joanna Bulger, Andrew Cardwell, Jeffrey Chilcote, Tara Cotten, Rene Doyon, Michael P. Fitzgerald, Katherine B. Follette, Benjamin L. Gerard, Stephen J. Goodsell, James R. Graham, Pascale Hibon, Li-Wei Hung, Patrick Ingraham, Paul Kalas, Quinn Konopacky, James E. Larkin, Jérôme Maire, Franck Marchis, Mark S. Marley, Christian Marois, Stanimir Metchev, Maxwell A. Millar-Blanchaer, Katie M. Morzinski, Eric L. Nielsen, David Palmer, Jennifer Patience, Marshall Perrin, Lisa Poyneer, Laurent Pueyo, Abhijith Rajan, Julien Rameau, Naru Sadakuni, Dmitry Savransky, Adam C. Schneider, Inseok Song, Remi Soummer, Sandrine Thomas, J. Kent Wallace, Jason J. Wang, Kimberly Ward-Duong, Sloane Wiktorowicz, Schuyler Wolff-Published: 2019-04-18 20:35:16-Category: astro-ph.IM"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"   Peter Tuthill  "
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Stylianos Moschoglou, Stylianos Ploumpis, Mihalis Nicolaou, Athanasios Papaioannou, Stefanos Zafeiriou-Updated: 2019-05-09 22:24:51-Published: 2019-05-01 13:31:01-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Stylianos Ploumpis  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   Olga Zamora  "
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Erik A. Petigura  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"The California-Kepler Survey. IV. Metal-rich Stars Host a Greater Diversity of Planets"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Erik A. Petigura  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Muzammil Behzad, Nhat Vo, Xiaobai Li, Guoying Zhao-Published: 2019-05-07 01:44:26-Category: cs.CV"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Pierre E. Jacob  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Mboyo Esole, Patrick Jefferson-Published: 2019-05-29 17:59:56-Category: hep-th"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Christian P. Robert  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+menu
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Clear PDF history"
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+edit(resource-id='com.commonsware.android.arXiv:id/field3'):android.widget.EditText@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Author"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Supernova Remnants in High Definition"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   John Bochanski  "
+back
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"TESS delivers its first Earth-sized planet and a warm sub-Neptune"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Favorites"
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About arXiv mobile"
+back
+click(resource-id='com.commonsware.android.arXiv:id/searchbutton'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Search"
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Alexandra Z. Greenbaum, Anthony Cheetham, Anand Sivaramakrishnan, Fredrik T. Rantakyrö, Gaspard Duchêne, Peter Tuthill, Robert J. De Rosa, Rebecca Oppenheimer, Bruce Macintosh, S. Mark Ammons, Vanessa P. Bailey, Travis Barman, Joanna Bulger, Andrew Cardwell, Jeffrey Chilcote, Tara Cotten, Rene Doyon, Michael P. Fitzgerald, Katherine B. Follette, Benjamin L. Gerard, Stephen J. Goodsell, James R. Graham, Pascale Hibon, Li-Wei Hung, Patrick Ingraham, Paul Kalas, Quinn Konopacky, James E. Larkin, Jérôme Maire, Franck Marchis, Mark S. Marley, Christian Marois, Stanimir Metchev, Maxwell A. Millar-Blanchaer, Katie M. Morzinski, Eric L. Nielsen, David Palmer, Jennifer Patience, Marshall Perrin, Lisa Poyneer, Laurent Pueyo, Abhijith Rajan, Julien Rameau, Naru Sadakuni, Dmitry Savransky, Adam C. Schneider, Inseok Song, Remi Soummer, Sandrine Thomas, J. Kent Wallace, Jason J. Wang, Kimberly Ward-Duong, Sloane Wiktorowicz, Schuyler Wolff-Published: 2019-04-18 20:35:16-Category: astro-ph.IM"
+click(className='android.widget.TextView',instance='14'):android.widget.TextView@"   Shih-Chieh Hsu  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"-Authors: Mboyo Esole, Patrick Jefferson-Published: 2019-05-29 17:59:56-Cross-Ref: hep-th"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"   Alexandra Johnson  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Characterizing K2 Candidate Planetary Systems Orbiting Low-Mass Stars IV: Updated Properties for 86 Cool Dwarfs Observed During Campaigns 1-17"
+click(className='android.widget.TextView',instance='18'):android.widget.TextView@"   Jessie L. Christiansen  "
+back
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"arXiv mobile"
+click(resource-id='com.commonsware.android.arXiv:id/nextbutton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+click(content-desc='More options'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Increase Font"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+click(className='android.widget.TextView',instance='17'):android.widget.TextView@"   Aya Higuchi  "
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"On the minimum mass of neutron stars"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Get PDF"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Mihalis Nicolaou  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Quantum interference between light sources separated by 150 million kilometers"
+click(className='android.widget.TextView',instance='18'):android.widget.TextView@"   Tara Cotten  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"   Shengdong Lu  "
+back
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Astrophysics"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Earth & Planetary Astrophysics"
+back
+scroll(direction='down')
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"-Authors: Motohiko Kusakabe, Toshitaka Kajino, Takashi Yoshida, Grant J. Mathews-Published: 2010-01-09 09:29:34-Category: astro-ph.CO"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"   Renxin Xu  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Performance of the Gemini Planet Imager Non-Redundant Mask and spectroscopy of two close-separation binaries HR 2690 and HD 142527"
+click(className='android.widget.TextView',instance='18'):android.widget.TextView@"   Tara Cotten  "
+back
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Electrical characterization of AMS aH18 HV-CMOS after neutrons and protons irradiation"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"   Sergio Gonzalez Sevilla  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Eccentric Massive Jupiter Orbiting a Sub-Giant on a 9.5 Day Period Discovered in the Transiting Exoplanet Survey Satellite Full Frame Images"
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"   David W. Latham  "
+back
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"An Ejecta Kinematics Study of Kepler's Supernova Remnant with High-Resolution $Chandra$ HETG Spectroscopy"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"   Sangwook Park  "
+back
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"-Authors: Hien Trong Nguyen, Nitya Kallivayalil, Michael Werner, Charles Alcock, Brian Patten, Daniel Stern-Published: 2004-06-01 21:04:39-Category: astro-ph"

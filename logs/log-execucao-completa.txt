@@ -1,0 +1,324 @@
+D:\Python27\python.exe "D:/OneDrive/OneDrive - UDESC Universidade do Estado de Santa Catarina/ufpr/disciplinas/teste de software/github/teste-software/main.py"
+instalar apk
+Performing Streamed Install
+adb: failed to install apks/original/TranslateActivity-debug.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install com.beust.android.translate without first uninstalling.]
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/translate-original-ini.png: 1 file pulled. 13.6 MB/s (76950 bytes in 0.005s)
+/sdcard/translate-original.png: 1 file pulled. 13.4 MB/s (48591 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug10-ini.png: 1 file pulled. 1.8 MB/s (75901 bytes in 0.039s)
+/sdcard/TranslateActivity-debug10.png: 1 file pulled. 10.9 MB/s (48754 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug11-ini.png: 1 file pulled. 2.3 MB/s (76667 bytes in 0.032s)
+/sdcard/TranslateActivity-debug11.png: 1 file pulled. 11.2 MB/s (48954 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug13-ini.png: 1 file pulled. 11.4 MB/s (76876 bytes in 0.006s)
+/sdcard/TranslateActivity-debug13.png: 1 file pulled. 16.1 MB/s (65416 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug14-ini.png: 1 file pulled. 20.3 MB/s (76344 bytes in 0.004s)
+/sdcard/TranslateActivity-debug14.png: 1 file pulled. 11.6 MB/s (49140 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug15-ini.png: 1 file pulled. 15.8 MB/s (76543 bytes in 0.005s)
+/sdcard/TranslateActivity-debug15.png: 1 file pulled. 11.5 MB/s (48154 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug16-ini.png: 1 file pulled. 15.3 MB/s (96829 bytes in 0.006s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug17-ini.png: 1 file pulled. 0.8 MB/s (75290 bytes in 0.093s)
+/sdcard/TranslateActivity-debug17.png: 1 file pulled. 13.4 MB/s (48385 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug18-ini.png: 1 file pulled. 8.4 MB/s (75605 bytes in 0.009s)
+/sdcard/TranslateActivity-debug18.png: 1 file pulled. 8.8 MB/s (48530 bytes in 0.005s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug19-ini.png: 1 file pulled. 2.4 MB/s (75788 bytes in 0.031s)
+/sdcard/TranslateActivity-debug19.png: 1 file pulled. 14.0 MB/s (48124 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug20-ini.png: 1 file pulled. 13.8 MB/s (75228 bytes in 0.005s)
+/sdcard/TranslateActivity-debug20.png: 1 file pulled. 13.3 MB/s (48924 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug21-ini.png: 1 file pulled. 19.2 MB/s (76284 bytes in 0.004s)
+/sdcard/TranslateActivity-debug21.png: 1 file pulled. 11.6 MB/s (48532 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug22-ini.png: 1 file pulled. 11.7 MB/s (75791 bytes in 0.006s)
+/sdcard/TranslateActivity-debug22.png: 1 file pulled. 10.2 MB/s (48551 bytes in 0.005s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug23-ini.png: 1 file pulled. 0.3 MB/s (75807 bytes in 0.286s)
+/sdcard/TranslateActivity-debug23.png: 1 file pulled. 12.1 MB/s (48201 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug24-ini.png: 1 file pulled. 9.2 MB/s (75353 bytes in 0.008s)
+/sdcard/TranslateActivity-debug24.png: 1 file pulled. 3.9 MB/s (49038 bytes in 0.012s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug25-ini.png: 1 file pulled. 17.8 MB/s (76412 bytes in 0.004s)
+/sdcard/TranslateActivity-debug25.png: 1 file pulled. 6.2 MB/s (48500 bytes in 0.007s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug26-ini.png: 1 file pulled. 3.9 MB/s (85071 bytes in 0.021s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug27-ini.png: 1 file pulled. 28.0 MB/s (88925 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug28-ini.png: 1 file pulled. 4.8 MB/s (76373 bytes in 0.015s)
+/sdcard/TranslateActivity-debug28.png: 1 file pulled. 6.0 MB/s (48487 bytes in 0.008s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug29-ini.png: 1 file pulled. 15.2 MB/s (75737 bytes in 0.005s)
+/sdcard/TranslateActivity-debug29.png: 1 file pulled. 8.1 MB/s (48610 bytes in 0.006s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug3-ini.png: 1 file pulled. 0.1 MB/s (75897 bytes in 0.733s)
+/sdcard/TranslateActivity-debug3.png: 1 file pulled. 1.4 MB/s (19247 bytes in 0.013s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug30-ini.png: 1 file pulled. 19.4 MB/s (75623 bytes in 0.004s)
+/sdcard/TranslateActivity-debug30.png: 1 file pulled. 9.0 MB/s (48300 bytes in 0.005s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug31-ini.png: 1 file pulled. 13.6 MB/s (75471 bytes in 0.005s)
+/sdcard/TranslateActivity-debug31.png: 1 file pulled. 13.0 MB/s (48258 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug32-ini.png: 1 file pulled. 14.3 MB/s (75412 bytes in 0.005s)
+/sdcard/TranslateActivity-debug32.png: 1 file pulled. 8.6 MB/s (48368 bytes in 0.005s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug33-ini.png: 1 file pulled. 16.8 MB/s (75598 bytes in 0.004s)
+/sdcard/TranslateActivity-debug33.png: 1 file pulled. 17.4 MB/s (65116 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug34-ini.png: 1 file pulled. 18.7 MB/s (76067 bytes in 0.004s)
+/sdcard/TranslateActivity-debug34.png: 1 file pulled. 10.9 MB/s (69571 bytes in 0.006s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug35-ini.png: 1 file pulled. 18.2 MB/s (75643 bytes in 0.004s)
+/sdcard/TranslateActivity-debug35.png: 1 file pulled. 13.0 MB/s (48828 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug36-ini.png: 1 file pulled. 16.8 MB/s (76161 bytes in 0.004s)
+/sdcard/TranslateActivity-debug36.png: 1 file pulled. 12.8 MB/s (49089 bytes in 0.004s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug37-ini.png: 1 file pulled. 14.0 MB/s (76492 bytes in 0.005s)
+/sdcard/TranslateActivity-debug37.png: 1 file pulled. 15.1 MB/s (49034 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug38-ini.png: 1 file pulled. 0.5 MB/s (76433 bytes in 0.157s)
+/sdcard/TranslateActivity-debug38.png: 1 file pulled. 6.3 MB/s (48571 bytes in 0.007s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug39-ini.png: 1 file pulled. 11.9 MB/s (75837 bytes in 0.006s)
+/sdcard/TranslateActivity-debug39.png: 1 file pulled. 20.1 MB/s (71627 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug4-ini.png: 1 file pulled. 19.8 MB/s (75496 bytes in 0.004s)
+/sdcard/TranslateActivity-debug4.png: 1 file pulled. 14.0 MB/s (48417 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug6-ini.png: 1 file pulled. 18.4 MB/s (75648 bytes in 0.004s)
+/sdcard/TranslateActivity-debug6.png: 1 file pulled. 3.7 MB/s (64726 bytes in 0.016s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug7-ini.png: 1 file pulled. 18.4 MB/s (75418 bytes in 0.004s)
+/sdcard/TranslateActivity-debug7.png: 1 file pulled. 15.6 MB/s (49222 bytes in 0.003s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug8-ini.png: 1 file pulled. 17.2 MB/s (76680 bytes in 0.004s)
+/sdcard/TranslateActivity-debug8.png: 1 file pulled. 8.5 MB/s (48512 bytes in 0.005s)
+desinstalar apk
+Success
+instalar apk
+Performing Streamed Install
+Success
+abrir app
+/sdcard/TranslateActivity-debug9-ini.png: 1 file pulled. 14.6 MB/s (75762 bytes in 0.005s)
+/sdcard/TranslateActivity-debug9.png: 1 file pulled. 9.3 MB/s (48572 bytes in 0.005s)
+desinstalar apk
+Success
+------------------------ RESULTADOS ------------------------
+escore de mutacao: 0.257142857143
+erros: 4
+------ MEDIAS -------
+total mutantes: 7.0
+total escores: 0.0514285714286
+total erros: 0.8
+
+Process finished with exit code 0

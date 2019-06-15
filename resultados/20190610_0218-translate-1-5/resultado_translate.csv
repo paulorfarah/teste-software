@@ -1,0 +1,35 @@
+"[['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False]]"
+total de mutantes,score de mutacao,erros
+35,1.0,4
+mutantes mortos
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
+total de mutantes
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
+"[['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True]]"
+total de mutantes,score de mutacao,erros
+35,0.08571428571428572,4
+mutantes mortos
+{'WrongStringResource': 3}
+total de mutantes
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
+"[['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True]]"
+total de mutantes,score de mutacao,erros
+35,0.11428571428571428,4
+mutantes mortos
+{'WrongStringResource': 4}
+total de mutantes
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
+"[['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', False], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True]]"
+total de mutantes,score de mutacao,erros
+35,0.17142857142857143,4
+mutantes mortos
+"{'WrongStringResource': 5, 'MissingPermissionManifest': 1}"
+total de mutantes
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
+"[['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', False], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True], ['translate', True]]"
+total de mutantes,score de mutacao,erros
+35,0.3142857142857143,4
+mutantes mortos
+"{'InvalidActivityPATH': 1, 'WrongStringResource': 10}"
+total de mutantes
+"{'InvalidActivityPATH': 2, 'WrongStringResource': 25, 'ActivityNotDefined': 2, 'InvalidLabel': 2, 'MissingPermissionManifest': 4}"
