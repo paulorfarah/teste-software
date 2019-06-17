@@ -29,7 +29,7 @@ class Tool(object):
             scores_mutacao = []
             with open(self.__pasta + 'resultado_' + app[3] + '.csv', mode='w') as arquivo:
                 arquivo = csv.writer(arquivo, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                for cont in range(3, 6): # falta fazer loop e calcular a media
+                for cont in range(2, 3): # falta fazer loop e calcular a media
 
                     # ORIGINAL
                     ##############################################################################
