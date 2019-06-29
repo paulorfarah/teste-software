@@ -1,20 +1,36 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# # Imports the monkeyrunner modules used by this program
+# # # from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
+# # import os
+# #
+# # # from monkeyrun.base import MonkeyRunner
+# #
+# # print("Iniciando Conexão com o Dispositivo")
+# # # Connects to the current device, returning a MonkeyDevice object
+# # device = MonkeyRunner.waitForConnection()
+# # print("Dispositivo Conectado")
 
-# Imports the monkeyrunner modules used by this program
-# from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
+import sys
 import os
+import time
 
-from monkeyrun.base import MonkeyRunner
+try:
+    sys.path.append(os.path.join(os.environ['ANDROID_VIEW_CLIENT_HOME'], 'src'))
+except:
+    pass
 
-print("Iniciando Conexão com o Dispositivo")
-# Connects to the current device, returning a MonkeyDevice object
-device = MonkeyRunner.waitForConnection()
-print("Dispositivo Conectado")
+from com.dtmilano.android.viewclient import ViewClient
 
-
-
+# vc = ViewClient(*ViewClient.connectToDeviceOrExit())
+#fonte: https://stackoverflow.com/questions/37947992/androidviewclient-store-view-client-dumps
+print 'Connecting to device...'
+kwargs1 = {'ignoreversioncheck': False, 'verbose': False, 'ignoresecuredevice': False}
+device, serialno = ViewClient.connectToDeviceOrExit(**kwargs1)
+kwargs2 = {'forceviewserveruse': False, 'useuiautomatorhelper': False, 'ignoreuiautomatorkilled': True,
+           'autodump': False, 'startviewserver': True, 'compresseddump': True}
+time.sleep(1)
+vc = ViewClient(device, serialno, **kwargs2)
 
 def executar_evento(linha, texto):
     x = 0
@@ -124,9 +140,12 @@ def executar_evento(linha, texto):
 
 
         elif lista[2] == "throttle":
-            MonkeyRunner.sleep(float(lista[3]) / 1000)
-            MonkeyRunner.sleep(float(lista[3]) / 1000)
-            MonkeyRunner.sleep(float(lista[3]) / 1000)
+            # MonkeyRunner.sleep(float(lista[3]) / 1000)
+            # MonkeyRunner.sleep(float(lista[3]) / 1000)
+            # MonkeyRunner.sleep(float(lista[3]) / 1000)
+            vc.sleep(float(lista[3]) / float(1000))
+            vc.sleep(float(lista[3]) / float(1000))
+            vc.sleep(float(lista[3]) / float(1000))
 
 
         elif lista[2] == "start":
@@ -137,15 +156,15 @@ def executar_evento(linha, texto):
 
 
         elif lista[2] == "key_down":
-            device.press(lista[4], MonkeyDevice.DOWN)
+            device.press(lista[4], device.DOWN)
             # device.press(KEYCODE_DPAD_UP, MonkeyDevice.DOWN_AND_UP)
-            MonkeyRunner.sleep(0.1)
-
+            # MonkeyRunner.sleep(0.1)
+            vc.sleep(0.1)
 
         elif lista[2] == "key_up":
-            device.press(lista[4], MonkeyDevice.UP)
-            MonkeyRunner.sleep(0.1)
-
+            device.press(lista[4], device.UP)
+            # MonkeyRunner.sleep(0.1)
+            vc.sleep(0.1)
 
         elif lista[2] == "persist":
             os.system("adb shell settings put system accelerometer_rotation 1")
@@ -179,6 +198,8 @@ def executar_evento(linha, texto):
     else:
         pula = pula - 1
     cont = cont + 1
+
+
 class Ape(object):
 
     def execute(self, params):
@@ -186,7 +207,8 @@ class Ape(object):
         # arq = open('/home/elton/PycharmProjects/testador/venv/consume.log', 'r')
         # texto = arq.readlines()
         # print("Término da Leitura do Arquivo")
-        arq = open(params[0], 'r')
+        # arq = open(params[0], 'r')
+        arq = open('tools/consume.log', 'r')
         texto = arq.readlines()
         for linha in texto:
             executar_evento(linha, texto)

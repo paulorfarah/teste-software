@@ -4,6 +4,8 @@ import logging
 import os
 
 from tool import Tool
+from tools.ape import Ape
+from tools.eventos_avc import teste
 from tools.monkey import Monkey
 from tools.stoat import Stoat
 
@@ -34,9 +36,11 @@ def main():
     logging.basicConfig(filename='resultados/' + pasta + '/resultados.log', level=logging.INFO)
     logging.info('Inicio: ' + datetime.datetime.now().strftime('%d-%m-%Y %H:%M:%S'))
     # testes
+    # teste() #teste com AndroidViewClient
     tool = Tool(pasta)
     # tool.execute(Monkey(), APPS)
-    tool.execute(Stoat(), APPS)
+    # tool.execute(Stoat(), APPS)
+    tool.execute(Ape(), APPS)
     logging.info('Termino: ' + datetime.datetime.now().strftime('%d-%m-%Y %H:%M:%S'))
 
 

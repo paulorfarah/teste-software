@@ -130,3 +130,7 @@ def scroll_by_direction(direction):
         print "error direction?"
 
 
+### APE
+# device.drag((x_antigo, y_antigo), (x, y), tempo, 10)
+def drag(sx, sy, ex, ey):
+    d.drag(sx, sy, ex, ey, steps=10)
