@@ -126,6 +126,11 @@ def scroll_by_direction(direction):
         d(scrollable=True).scroll.toBeginning()
     elif direction == 'down':
         d(scrollable=True).scroll.toEnd()
+    #adicionado para a APE
+    elif direction == 'left':
+        d(scrollable=True).scroll.horiz.toBeginning()
+    elif direction == 'right':
+        d(scrollable=True).horiz.forward()
     else:
         print "error direction?"
 
